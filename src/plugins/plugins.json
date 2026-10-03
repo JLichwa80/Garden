@@ -72,6 +72,21 @@
         "src/plugins/moc-nav/styles/moc-nav.scss",
         "src/plugins/moc-nav/templates/moc-nav.njk"
       ]
+    },
+    "webmention-endpoint": {
+      "repo": "bodster7/garden-plugin-webmention-endpoint",
+      "installedVersion": "1.1.0",
+      "installedRef": "v1.1.0",
+      "installedAt": "2026-10-03T04:34:27.499Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/webmention-endpoint/LICENSE",
+        "src/plugins/webmention-endpoint/README.md",
+        "src/plugins/webmention-endpoint/SPEC.md",
+        "src/plugins/webmention-endpoint/garden-plugin.json",
+        "src/plugins/webmention-endpoint/screenshot.png",
+        "src/plugins/webmention-endpoint/templates/endpoint.njk"
+      ]
     }
   }
 }
