@@ -59,6 +59,19 @@
         "src/plugins/home-graph/templates/homeGraphScript.njk",
         "src/plugins/home-graph/test/graph-data.node-test.mjs"
       ]
+    },
+    "moc-nav": {
+      "repo": "oleeskild/garden-plugin-moc-nav",
+      "installedVersion": "1.0.1",
+      "installedRef": "v1.0.1",
+      "installedAt": "2026-10-03T04:34:12.856Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/moc-nav/README.md",
+        "src/plugins/moc-nav/garden-plugin.json",
+        "src/plugins/moc-nav/styles/moc-nav.scss",
+        "src/plugins/moc-nav/templates/moc-nav.njk"
+      ]
     }
   }
 }
